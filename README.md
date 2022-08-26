@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WarderSar
+- 👀 I’m interested in **Bioinformatics**, **Molecular Biology**
+- 🌱 I’m currently learning **Python 3**
+- 💞️ I’m looking to collaborate on **Bioinformatics projects**
+- 📫 How to reach me **warderSar1@yandex.ru**
